@@ -1,1 +1,2 @@
-# google-data-analytics-casestudy-r-analysenal
+# google-data-analytics-casestudy-r-analyse
+Case study R analysis
